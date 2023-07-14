@@ -9,13 +9,13 @@ require_once("navbar.php");
 
     <div class="custom_image_resp">
         <img class="mx-auto d-block" src="images/to do list img.png">
-        <a href="projects/notes website/" target="_blank">
+        <a href="https://abhipole.github.io/Notes_website/" target="_blank">
             <div class="custom_heading2 ">Notes website - Feb. 2022</div>
         </a>
     </div>
     <div class="custom_image_resp">
         <img class="mx-auto d-block" src="images/calulator img.png">
-        <a href="projects/calculator/" target="_blank">
+        <a href="https://abhipole.github.io/calculator/" target="_blank">
             <div class="custom_heading2 ">Calculator - March 2022</div>
         </a>
     </div>
@@ -33,20 +33,20 @@ require_once("navbar.php");
     </div>
     <div class="custom_image_resp">
         <img class="mx-auto d-block" src="images/online test.png">
-        <a href="projects/online test/" target="_blank">
+        <a href="#" target="_blank">
             <div class="custom_heading2 ">Online test - Jan. 2023</div>
         </a>
     </div>
     <div class="custom_image_resp">
         <img class="mx-auto d-block" src="images/landing page img.png">
-        <a href="projects/landing page orange/" target="_blank">
-            <div class="custom_heading2 ">Landing page -Nov. 2021</div>
+        <a href="https://abhipole.github.io/bootstrap_project/" target="_blank">
+            <div class="custom_heading2 ">Bootstrap UI - Nov. 2021</div>
         </a>
     </div>
 
     <div class="custom_image_resp">
         <img class="mx-auto d-block" src="images/portfolio img.png">
-        <a href="index.html" target="_blank">
+        <a href="index.php" target="_blank">
             <div class="custom_heading2 ">Personal Portfolio</div>
         </a>
     </div>
