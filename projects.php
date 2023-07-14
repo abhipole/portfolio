@@ -21,7 +21,7 @@ require_once("navbar.php");
     </div>
     <div class="custom_image_resp">
         <img class="mx-auto d-block" src="images/bubbleshoot.png">
-        <a href="projects/bubble shoot/" target="_blank">
+        <a href="https://abhipole.github.io/bubble_shoot/" target="_blank">
             <div class="custom_heading2 ">Bubble shoot - Dec. 2022</div>
         </a>
     </div>
