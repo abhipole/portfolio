@@ -1,0 +1,105 @@
+* {
+    margin: 0px 0px;
+    padding: 0px 0px;
+    box-sizing: border-box;
+}
+
+.darkcolor {
+    background-color: black;
+}
+
+#headercontent {
+
+    color: white;
+    text-shadow: rgba(255, 255, 255, 0.356) 3px 3px 2px;
+
+}
+
+.carousel_custom {
+
+    bottom: auto;
+    flex-direction: column;
+}
+
+.height_banner {
+    height: 95vh;
+}
+
+#header_btn {
+    border-radius: 40px;
+    padding: 2px 30px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    margin-top: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    text-shadow: rgb(188, 255, 5) 1px 1px 1px;
+
+
+}
+
+#header_btn:hover {
+    background-color: yellow;
+    box-shadow: rgb(0, 0, 0) 3px 3px 5px;
+    font-weight: bold;
+}
+
+#mypic {
+
+    border: 2px solid black;
+    box-shadow: black 2px 2px 30px 5px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+#resume_btn {
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+    border: 2px solid black;
+
+}
+
+.custom_heading2 {
+
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 3px 10px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+
+.custom_heading2:hover {
+    background-color: white;
+    color: black;
+}
+
+.custom_image_resp {
+
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 20px;
+
+}
+
+.custom_image_resp img {
+
+    margin: 15px 0px;
+    display: flex;
+    width: 250px;
+    height: 250px;
+
+}
+
+.custom_image_resp a {
+    text-decoration: none;
+}
+
+.certificates img {
+    margin: 20px 0px;
+    border: 2px solid black;
+}
