@@ -3,7 +3,7 @@
 require_once("navbar.php");
 ?>
 
-<h2 class="text-center text-white" style="background-color:blue">😊 Feel Free to Connect With Me 😊</h2>
+<h2 class="text-center text-white py-1" style="background-color:blue">😊 Feel Free to Connect With Me 😊</h2>
 <div class=" d-flex flex-wrap justify-content-center flex-row w-100">
 
 
@@ -58,6 +58,8 @@ require_once("navbar.php");
             <div class="custom_heading2 ">Youtube</div>
         </a>
     </div>
+
+    
 
 </div>
 </body>

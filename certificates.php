@@ -2,7 +2,7 @@
 require_once("navbar.php");
 ?>
 
-<h2 class="text-center text-white" style="background-color:blue">😊 Certificates 😊</h2>
+<h2 class="text-center text-white py-1" style="background-color:blue">😊 Certificates 😊</h2>
 <div class="certificate_flex d-flex flex-wrap justify-content-center align-items-center mt-15">
 
     <div class="certificates"><img class="w-100 mx-auto d-block" src="images/web cert.png">
@@ -21,6 +21,7 @@ require_once("navbar.php");
     </div>
 
 </div>
+
 
 </body>
 
